@@ -171,7 +171,7 @@ iframe {
 
 .wrap-contact100 {
   width: 500px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   border-radius: 0px;
   overflow: hidden;
   padding: 42px 55px 45px 55px;
@@ -190,7 +190,7 @@ iframe {
   display: block;
   font-family: Poppins-Bold;
   font-size: 39px;
-  color: #884EC5;
+  color: rgb(251,51,51);
   line-height: 1.2;
   text-align: center;
   padding-bottom: 44px;
@@ -200,7 +200,7 @@ iframe {
   display: block;
   font-family: Poppins-Bold;
   font-size: 29px;
-  color: #3DABE2;
+  color: rgb(251,51,51);
   line-height: 1.2;
   text-align: center;
   padding-bottom: 44px;
